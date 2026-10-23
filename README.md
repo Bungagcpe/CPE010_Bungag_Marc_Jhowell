@@ -13,6 +13,6 @@
 
 [MIDTERM](https://github.com/Bungagcpe/CPE010_Bungag_Marc_Jhowell/tree/dad7091b0d770a67cc6b29110cf4ed29484c55d1/BUNGAG%20CPE010/MIDTERM)
 
-FINALS:
+[FINALS](https://github.com/Bungagcpe/CPE010_Bungag_Marc_Jhowell/tree/c4e0034616cd838f5c60bebaf00996ca6cc6d4f2/BUNGAG%20CPE010/FINAL)
 
 
